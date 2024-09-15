@@ -1,8 +1,29 @@
-# React + Vite
+# AI contest
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Това е фронтенд приложението за организирано събитие, изградено с **Vue.js** и **TypeScript**.
 
-Currently, two official plugins are available:
+## **Съдържание**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Изисквания](#изисквания)
+- [Инсталация](#инсталация)
+- [Стартиране на приложението](#стартиране-на-приложението)
+- [Скриптове](#скриптове)
+- [Структура на проекта](#структура-на-проекта)
+- [Конфигурация](#конфигурация)
+- [Зависимости](#зависимости)
+- [Допълнителна информация](#допълнителна-информация)
+
+## **Изисквания**
+
+Преди да започнете, уверете се, че имате инсталирани следните инструменти:
+
+- [Node.js](https://nodejs.org/) версия **14** или по-нова.
+- [npm](https://www.npmjs.com/) 
+
+## **Инсталация**
+
+1. **Клонирайте репозитория:**
+
+   ```bash
+   git clone https://github.com/AniPopova/ai-contest.git
+
